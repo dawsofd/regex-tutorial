@@ -124,6 +124,6 @@ The look-behind asserts what immediately precedes the current position in the st
 
 ## Author
 
-Dawson Dohlen is a full-stack coding bootcamp student.
-Link to my [GitHub](https://github.com/dawsofd) profile.
+Dawson Dohlen is a UC-Berkeley extension full-stack coding bootcamp student.
+Here's a link to my [GitHub](https://github.com/dawsofd) profile.
 
