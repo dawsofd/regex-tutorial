@@ -20,3 +20,6 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+
+## Link to Gist
+Link to public gist [GitHub Gist](https://github.com/dawsofd/regex-tutorial/blob/main/Develop/gist-template.md)
